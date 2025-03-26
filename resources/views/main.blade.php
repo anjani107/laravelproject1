@@ -7,5 +7,6 @@
 </head>
 <body>
     <h2>welcome to my website.</h2>
+    <p>learn coding from scratch and php ,laravel etc.</p>
 </body>
 </html>
